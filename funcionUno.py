@@ -8,4 +8,5 @@ def crear_lista_estudiantes(numeroEstudiantes):
         estudiante["semestre"]=input("Digita tu semestre: ")
         estudiantes.append(estudiante)        
     return estudiantes
-crear_lista_estudiantes(5)
+
+#crear_lista_estudiantes(5)
